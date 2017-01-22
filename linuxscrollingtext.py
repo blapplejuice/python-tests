@@ -1,21 +1,28 @@
 import os
 import time
-print ("THIS PROGRAM IS FOR MAC AND LINUX-IF YOU HAVE WINDOWS THEN OPEN THE FILE...")
-time.sleep(0.1)
-print ("ScrollingText.py")
-print ("program starting in 5")
-time.sleep(1)
-print ("program starting in 4")
-time.sleep(1)
-print ("program starting in 3")
-time.sleep(1)
-print ("program starting in 2")
-time.sleep(1)
-print ("program starting in 1")
-time.sleep(1)
-print ("program starting in 0")
-time.sleep(2)
+""""
+Put in some coments to explain what the enxt section of code is supposed to do.
 
+"""
+    print ("THIS PROGRAM IS FOR MAC AND LINUX-IF YOU HAVE WINDOWS THEN OPEN THE FILE...")
+    time.sleep(0.1)
+    print ("ScrollingText.py")
+    print ("program starting in 5")
+    time.sleep(1)
+    print ("program starting in 4")
+    time.sleep(1)
+    print ("program starting in 3")
+    time.sleep(1)
+    print ("program starting in 2")
+    time.sleep(1)
+    print ("program starting in 1")
+    time.sleep(1)
+    print ("program starting in 0")
+    time.sleep(2)
+
+"""
+Some more comment sofr the next block of code.
+"""
 os.system('clear')
 print ("S")
 time.sleep(0.1)
